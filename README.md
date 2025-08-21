@@ -20,14 +20,6 @@
 
 ---
 
-## 🎓 Credits
-
-Special thanks to **Murtaza Hassan** for his tutorials:
-
-* [YouTube Tutorial](https://www.youtube.com/watch?v=HXDD7-EnGBY)
-* [Project Page](https://www.murtazahassan.com/courses/opencv-projects/lesson/code-and-files/)
-
----
 
 ## 🛠️ Prerequisites
 
